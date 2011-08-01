@@ -1,0 +1,5 @@
+#!/usr/bin/ruby
+
+require 'lib/remove_duplicate'
+
+RemoveDuplicate.new(ARGV).run
